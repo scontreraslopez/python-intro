@@ -130,7 +130,7 @@ Llegó el momento de la verdad. Vamos a crear nuestro primer archivo Python y a 
    
     ```
 
-> [!NOTA]
+> [!NOTE]
 > **TRUCAZO**: En python existe una sintaxis especial que se llama *f-strings* que permite incluir variables dentro de cadenas de texto. Por ejemplo, print(f"El resultado de 5 + 3 es {5 + 3}"). Esto es muy útil para mostrar resultados de cálculos dentro de un texto. ¡Prueba a usarlo!
 
 ### Módulo 4: Wrapping Up
