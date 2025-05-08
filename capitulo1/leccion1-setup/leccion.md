@@ -141,4 +141,5 @@ Llegó el momento de la verdad. Vamos a crear nuestro primer archivo Python y a 
 
 Estos ejercicios están diseñados para que desarrolles tu capacidad de resolver problemas y entiendas cómo funciona la programación. Herramientas como la IA pueden ser útiles para consultar dudas puntuales (¡como un libro o un buscador!), pero la clave está en que tú mismo/a pienses, pruebes y cometas errores (¡así se aprende!).
 
-Me reservo el derecho de hacer pequeñas pruebas o preguntas para asegurar que los conceptos fundamentales se están asimilando correctamente, especialmente si observo un uso que no favorezca el aprendizaje individual. ¡Confío plenamente en tu esfuerzo y curiosidad!
+>[!WARNING]
+>Me reservo el derecho de hacer pequeñas pruebas o preguntas para asegurar que los conceptos fundamentales se están asimilando correctamente, especialmente si observo un uso que no favorezca el aprendizaje individual. ¡Confío plenamente en tu esfuerzo y curiosidad! 😊
