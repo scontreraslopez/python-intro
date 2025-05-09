@@ -116,7 +116,7 @@ Llegó el momento de la verdad. Vamos a crear nuestro primer archivo Python y a 
 
     - Crea un nuevo archivo Python llamado `leccion1.py` que genera la siguiente salida por consola:
 
-    ```powershell
+    ```text
     
     Para escribir texto, usa comillas dentro de los paréntesis.
     Cada print() muestra una línea nueva
