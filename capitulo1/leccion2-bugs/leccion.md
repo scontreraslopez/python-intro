@@ -207,6 +207,8 @@ Esto nos dice: En el archivo `mi_programa.py`, en la línea 5, hay un `TypeError
 
 ¡Es hora de poner a prueba tus nuevas habilidades de depuración!
 
+![Detective Python](/assets/images/detective_python.jpeg)
+
 **Tu Misión:**
 
 Copia el siguiente código en un nuevo archivo Python (puedes llamarlo `leccion2.py`). El programa intenta realizar algunos cálculos y mostrar información sobre un estudiante ficticio, pero está plagado de errores de diferentes tipos.
