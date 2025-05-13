@@ -104,6 +104,7 @@ print(frase_con_tab)
 > [!NOTE]
 > El carácter de escape `\` se usa para indicar que el siguiente carácter tiene un significado especial. Por ejemplo, `\n` es un salto de línea y `\t` es una tabulación. Si quieres incluir una barra invertida en tu string, usa `\\`.
 
+<!-- markdownlint-disable-next-line -->
 ### 4. Profundizando en las f-strings: ¡La Forma Estrella de Mostrar Información!
 
 Ya introdujimos las f-strings (cadenas formateadas) en la Lección 1 como un "TRUCAZO" (guiño 😉 al Xokas y su trucazo inmortalizado para siempre junto con Pablo Motos en un spot publicitario del Ministerio de Igualdad, historia de Internet). Son la forma más moderna y legible de incluir valores de variables (y expresiones) dentro de cadenas de texto.

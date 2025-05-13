@@ -219,7 +219,7 @@ print(calcular_area_rectangulo(5, 10))
 
 >![INFO]
 > Más de detalle de los docstrings en [Real Python Documenting Python Code](https://realpython.com/documenting-python-code/#documenting-your-python-code-base-using-docstrings).
-> Y la que a mi juicio es la mejor guía de estilo para los docstrings: [Numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html) 
+> Y la que a mi juicio es la mejor guía de estilo para los docstrings: [Numpy docstring style](https://numpydoc.readthedocs.io/en/latest/format.html)
 
 Por ahora, quédate con que los `#` son para comentarios cortos y los `"""Docstrings"""` para explicaciones más largas y, sobre todo, para la documentación formal de partes de tu código (algo que será más relevante cuando definamos nuestras propias funciones).
 
@@ -231,5 +231,3 @@ Ya lo sabes: la práctica hace al maestro. Experimenta con las variables, prueba
 
 >[!WARNING]
 >Como siempre, el objetivo es que interiorices los conceptos. Si tienes dudas, pregunta, investiga, ¡pero el código final debe ser fruto de tu comprensión y esfuerzo! 😊
-```
-
