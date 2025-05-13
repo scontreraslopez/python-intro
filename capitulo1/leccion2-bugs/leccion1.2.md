@@ -228,7 +228,7 @@ Tu tarea es:
 **Código con "Sorpresas":**
 
 ```python
-# depurando_ando.py - ¡A corregir se ha dicho!
+# leccion1.2.py - ¡A corregir se ha dicho!
 
 nombre_estudiante = "Carlos Santana"
 asignaturas_matriculadas = 5
