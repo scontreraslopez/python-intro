@@ -224,3 +224,12 @@ print(calcular_area_rectangulo(5, 10))
 Por ahora, quédate con que los `#` son para comentarios cortos y los `"""Docstrings"""` para explicaciones más largas y, sobre todo, para la documentación formal de partes de tu código (algo que será más relevante cuando definamos nuestras propias funciones).
 
 ---
+
+## Nota Importante: Aprendizaje y Originalidad
+
+Ya lo sabes: la práctica hace al maestro. Experimenta con las variables, prueba diferentes operaciones, comenta tu código para entenderlo mejor en el futuro.
+
+>[!WARNING]
+>Como siempre, el objetivo es que interiorices los conceptos. Si tienes dudas, pregunta, investiga, ¡pero el código final debe ser fruto de tu comprensión y esfuerzo! 😊
+```
+
