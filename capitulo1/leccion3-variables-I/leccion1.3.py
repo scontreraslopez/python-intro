@@ -105,7 +105,7 @@ print("\n--- Ejercicio 5 ---")
 # c) Reasigna a continuación 'dato_flexible' con un valor booleano. Imprime su valor y tipo.
 # d) Intenta sumar 'dato_flexible' (que ahora es booleano) con el número 5.
 #    Observa el resultado o el error. ¿Por qué crees que pasa esto?
-#    (Puedes comentar la línea que da error después de observarlo para que el script continúe).
+#    (Puedes comentar la línea que da error, si la hubiese, después de observarlo para que el script continúe).
 
 
 print("\n--- Ejercicio 6 ---")

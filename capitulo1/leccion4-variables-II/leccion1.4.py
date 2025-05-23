@@ -129,7 +129,7 @@ print("\n--- Ejercicio 4: Conversión de Unidades ---")
 # c) Imprime la variable 'mensaje_invitacion'.
 # d) Crea otra variable 'despedida' con el valor "¡Te esperamos!"
 # e) Crea un 'mensaje_completo' concatenando 'mensaje_invitacion' y 'despedida'
-#    (asegúrate de que haya un espacio o una nueva línea entre ellos si lo deseas).
+#    (asegúrate de que haya un espacio o una nueva línea entre ellos).
 # f) Imprime 'mensaje_completo'.
 
 print("--- Ejercicio 5: Saludos Personalizados ---")
@@ -253,3 +253,18 @@ print("\n--- Ejercicio 10: Describiendo tu Ítem Favorito de Minecraft ---")
 # Tu código para el Ejercicio 10 aquí:
 
 
+# Ejercicio 7
+# a) Frase célebre
+frase_celebre = "La imaginación es más importante que el conocimiento."
+
+# b) Longitud de la frase
+longitud_de_la_frase = len(frase_celebre)
+
+# c) Imprimir frase y longitud
+print(f"La frase '{frase_celebre}' tiene {longitud_de_la_frase} caracteres.")
+
+# d) Palabra corta
+palabra_corta = "sol"
+
+# e) Imprimir longitud de palabra corta
+print(f"La palabra '{palabra_corta}' tiene {len(palabra_corta)} caracteres.")
