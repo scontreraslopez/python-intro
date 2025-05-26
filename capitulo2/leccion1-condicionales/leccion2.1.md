@@ -227,36 +227,8 @@ No te preocupes si esto parece mucho ahora, ¡ya profundizaremos más adelante! 
 
 ## Módulo 6: ¡A Practicar las Decisiones! (Ejercicios)
 
-Ahora te toca poner en práctica estas estructuras. Abre un nuevo archivo `.py` y resuelve los siguientes desafíos:
-
-1.  **Verificador de Edad para Votar:**
-    * Crea una variable `edad_votante`. Asígnale un valor (ej. 17).
-    * Escribe un programa que imprima "Puedes votar" si `edad_votante` es 18 o más.
-    * Si es menor de 18, debe imprimir "No puedes votar todavía".
-
-2.  **Número Positivo, Negativo o Cero:**
-    * Crea una variable `numero_a_evaluar`. Asígnale un valor (ej. -5, 0, o 10).
-    * Escribe un programa que imprima si el número es "Positivo", "Negativo" o "Cero". (Necesitarás `if-elif-else`).
-
-3.  **Descuento en Tienda:**
-    * Crea una variable `total_compra`. Asígnale un valor (ej. 45.00 o 120.50).
-    * Si `total_compra` es mayor que 100.00 euros, se aplica un descuento del 10%.
-    * El programa debe calcular el precio final (con o sin descuento) e imprimir:
-        * El total de la compra original.
-        * El descuento aplicado (si lo hay, en euros).
-        * El precio final a pagar.
-        * Ejemplo de salida si hay descuento:
-            ```
-            Total de la compra: 120.50 euros
-            Descuento aplicado (10%): 12.05 euros
-            Precio final a pagar: 108.45 euros
-            ```
-        * Ejemplo de salida si NO hay descuento:
-            ```
-            Total de la compra: 45.00 euros
-            No se aplica descuento.
-            Precio final a pagar: 45.00 euros
-            ```
+Ahora te toca poner en práctica estas estructuras, resuelve la colección de ejercicios `leccion2.1.py` que encontrarás en el repositorio.
+Si te apetece crear tu propio ejercicio y añadirlo a continuación (append), ¡adelante!. También lo tendré en cuenta.
 
 ---
 
@@ -283,7 +255,6 @@ Recuerda que la mejor forma de aprender es practicando y experimentando. Intenta
 * **Progresión Lógica:** `if` -> `if-else` -> `if-elif-else`.
 * **Operadores de Comparación Claros:** Se presentan en una tabla y se usan en ejemplos.
 * **Ejemplos Prácticos:** Cada estructura se ilustra con código que los alumnos pueden probar.
-* **Ejercicios Aplicados:** Los ejercicios del final les permiten construir pequeños programas que usan las estructuras aprendidas.
-* **Introducción Suave a `and`/`or`/`not`:** Para que les suene, sin profundizar demasiado aún.
+* **Ejercicios Aplicados:** Los ejercicios del final os permiten consolidar lo aprendido.
+* **Introducción Suave a `and`/`or`/`not`:** Para que vaya sonando, sin profundizar demasiado aún. Debería quitar las telarañas de cuando lo vimos en SQL.
 
-Espero que esta estructura y contenido sean adecuados para tus alumnos. ¡Cualquier ajuste, me dices!
