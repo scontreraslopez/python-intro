@@ -245,8 +245,7 @@ En la próxima lección, veremos cómo podemos hacer que nuestros programas sean
 Recuerda que la mejor forma de aprender es practicando y experimentando. Intenta modificar los ejemplos, crea tus propias condiciones y observa qué ocurre. ¡No temas a los errores, son oportunidades para aprender!
 
 >[!WARNING]
->Estos ejercicios están diseñados para que desarrolles tu lógica. Intenta resolverlos por tu cuenta antes de buscar soluciones. ¡El verdadero aprendizaje está en el proceso! 😊
-```
+>Estos ejercicios están diseñados para que desarrolles tu lógica. Intenta resolverlos por tu cuenta antes de buscar soluciones. Ya sabéis que me reservo el derecho a hacer pequeñas pruebas escritas si veo cosas raras en las soluciones. ¡El verdadero aprendizaje está en el proceso! 😊
 
 **Puntos Clave de esta Lección:**
 

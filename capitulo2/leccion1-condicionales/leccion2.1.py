@@ -1,4 +1,4 @@
-# Lección 1.4: Condicionales I en Python
+# Lección 2.1: Condicionales I en Python
 
 # ¡Hola! Este archivo contiene ejercicios para practicar el uso de
 # estructuras condicionales (if, elif, else) en Python.
