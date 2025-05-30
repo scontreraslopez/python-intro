@@ -334,3 +334,5 @@ Ya lo sabes: es solo intentándolo que conseguimos alcanzar una aprendizaje sign
 >[!WARNING]
 >Como siempre, el objetivo es que interiorices los conceptos. Si tienes dudas, pregunta, investiga, ¡pero el código final debe ser fruto de tu comprensión y esfuerzo! 😊
 >Si me haces la del chat-gpt, o entregar un código copiado, lo que haré será evaluación por pruebas objetivas, y no por trabajos. Así que, ¡a programar se ha dicho!
+
+---

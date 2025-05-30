@@ -177,3 +177,5 @@ Recuerda que la mejor forma de aprender a programar es **haciendo**, **experimen
 * **Mensajes Claros al Usuario:** Al usar `input()`, es importante proporcionar un mensaje claro que le indique al usuario qué tipo de información se espera.
 * **Combinación de Herramientas:** Hemos visto cómo `input()` se integra perfectamente con variables (para guardar lo que el usuario escribe), f-strings (para mostrar mensajes personalizados con esos datos) y condicionales (para tomar decisiones basadas en la entrada del usuario).
 * **Anticipando Problemas (Introducción):** Aunque no hemos visto cómo manejarlos formalmente, hemos empezado a ser conscientes de que el usuario puede introducir datos inesperados (ej. texto en lugar de números), lo que puede llevar a errores como `ValueError`.
+
+---

@@ -257,3 +257,4 @@ Recuerda que la mejor forma de aprender es practicando y experimentando. Intenta
 * **Ejercicios Aplicados:** Los ejercicios del final os permiten consolidar lo aprendido.
 * **Introducción Suave a `and`/`or`/`not`:** Para que vaya sonando, sin profundizar demasiado aún. Debería quitar las telarañas de cuando lo vimos en SQL.
 
+---

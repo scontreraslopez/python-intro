@@ -297,3 +297,5 @@ Como siempre, estos ejercicios están diseñados para que desarrolles tu propia 
 
 >[!WARNING]
 >Me reservo el derecho de hacer pequeñas pruebas o preguntas para asegurar que los conceptos fundamentales se están asimilando correctamente. ¡El objetivo es que aprendas a "pensar en Python"! 😊
+
+---

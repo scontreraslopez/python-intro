@@ -143,3 +143,5 @@ Estos ejercicios están diseñados para que desarrolles tu capacidad de resolver
 
 >[!WARNING]
 >Me reservo el derecho de hacer pequeñas pruebas o preguntas para asegurar que los conceptos fundamentales se están asimilando correctamente, especialmente si observo un uso que no favorezca el aprendizaje individual. ¡Confío plenamente en tu esfuerzo y curiosidad! 😊
+
+---

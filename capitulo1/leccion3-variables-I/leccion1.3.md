@@ -231,3 +231,5 @@ Ya lo sabes: la práctica hace al maestro. Experimenta con las variables, prueba
 
 >[!WARNING]
 >Como siempre, el objetivo es que interiorices los conceptos. Si tienes dudas, pregunta, investiga, ¡pero el código final debe ser fruto de tu comprensión y esfuerzo! 😊
+
+---
